@@ -1,0 +1,18 @@
+.subscriptions-container {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+
+  & > h1 {
+    margin: 20px 0;
+  }
+
+  &__list {
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 16px;
+    padding: 12px 18px;
+    box-sizing: border-box;
+    text-align: left;
+  }
+}

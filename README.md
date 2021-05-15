@@ -2,6 +2,8 @@
 
 This project was created with Love ❤️ and Curiosity ✨
 
+<!-- nvm use -->
+
 ### Start development
 
 ```sh
